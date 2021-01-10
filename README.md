@@ -6,7 +6,7 @@ Developed in 2015 wSkyblockCore seeks to create an intuitive and elegant way to 
 ### Island creation
 Island main menu, allows customisation of permissions, interactivity, and activities on the island.
 Set public warps and invitation to the islands.
-[](assets/islandmenu.png)
+![](../main/assets/islandmenu.png)
 Supports creating/joining up to 8 islands, 4 for owned islands, and 4 for non-owned islands.
 [](assets/ismenu.png)
 
