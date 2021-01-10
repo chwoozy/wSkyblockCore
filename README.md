@@ -37,5 +37,5 @@ wSkyblockCore was developed under Spigot-1.8.8-R0.1 beta builds and should funct
 Not for distribution, public use, or sales.
 
 # Licenses
-&copy; yungweezy 2021
+&copy; yungweezy 2021  
 This project is licensed under the [GNU General Public License v2.0](LICENSE)
