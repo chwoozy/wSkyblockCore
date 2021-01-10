@@ -4,19 +4,27 @@ Developed in 2015 wSkyblockCore seeks to create an intuitive and elegant way to 
 
 # Features
 ### Island creation
-placeholder
+Island main menu, allows customisation of permissions, interactivity, and activities on the island.
+Set public warps and invitation to the islands.
+[](assets/islandmenu.png)
+Supports creating/joining up to 8 islands, 4 for owned islands, and 4 for non-owned islands.
+[](assets/ismenu.png)
+
 ### Island customisation
-placeholder
+Allows customising names and assigning icons for islands.
+[](assets/namecreate.png)
+Support for different biome islands
+[](assets/type.png)
+
 ### Island shops
 placeholder
 ### Island utilities/commands
-placeholder
+Simple to use permissioned commands for controlling islands.
 
 # Dependencies
 - WorldGuard
 - AsyncWorldEdit
 - Vault
 - AnimatedNames
-# Information
 
 # Licenses
