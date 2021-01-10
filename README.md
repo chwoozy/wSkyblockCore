@@ -38,4 +38,4 @@ Not for distribution, public use, or sales.
 
 # Licenses
 &copy; yungweezy 2021  
-This project is licensed under the [GNU General Public License v2.0](LICENSE)
+This project is licensed under the [GNU General Public License v3.0](LICENSE)
