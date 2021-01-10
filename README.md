@@ -17,9 +17,8 @@ Developed in 2015 wSkyblockCore seeks to create an intuitive and elegant way to 
 <img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/istype.png?raw=true" width="500">  
 
 ### Island shops
-- placeholder
-### Island utilities/commands
-- Simple to use permissioned commands for controlling islands.
+- Limit player sales by varying daily economy demand supply.  
+<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/shop.png?raw=true" width="500">
 
 # Dependencies
 - [WorldGuard](https://dev.bukkit.org/projects/worldguard)
