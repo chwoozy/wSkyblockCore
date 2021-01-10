@@ -8,13 +8,13 @@ Developed in 2015 wSkyblockCore seeks to create an intuitive and elegant way to 
 <img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/ismenu.png?raw=true" width="500">  
 - Island main menu, allows customisation of permissions, interactivity, and activities on the island.  
 - Set public warps and invitation to the islands.  
-<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/islandmenu.png?raw=true" width="500">  
+<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/islandmenus.png?raw=true" width="500">  
 
 ### Island customisation
 - Allows customising names and assigning icons for islands.  
-<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/namecreate.png?raw=true" width="500">  
+<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/islandname.png?raw=true" width="500">  
 - Support for different biome islands  
-<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/type.png?raw=true" width="500">  
+<img src="https://github.com/yungweezy/wSkyblockCore/blob/main/assets/istype.png?raw=true" width="500">  
 
 ### Island shops
 - placeholder
