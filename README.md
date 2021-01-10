@@ -32,9 +32,9 @@ Developed in 2015 wSkyblockCore seeks to create an intuitive and elegant way to 
 - [AnimatedNames](https://www.spigotmc.org/resources/animatednames.2175/)
 
 # Information
-> wSkyblockCore was developed under Spigot-1.8.8-R0.1 beta builds and should function for Minecraft versions up to 1.8.9 (PvP 1.6).  
-> Not for mass distribution or sales.
+wSkyblockCore was developed under Spigot-1.8.8-R0.1 beta builds and should function for Minecraft versions up to 1.8.9 (PvP 1.6).  
+Not for distribution, public use, or sales.
 
 # Licenses
 &copy; yungweezy 2021
-This project is licensed under the [GNU LESSER GENERAL PUBLIC LICENSE](LICENSE)
+This project is licensed under the [GNU General Public License v2.0](LICENSE)
