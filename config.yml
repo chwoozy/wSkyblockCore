@@ -1,0 +1,48 @@
+icons:
+  0: 1,0
+  1: 2,0
+  2: 3,0
+  4: 4,0
+  5: 5,0
+  8: 6,0
+  9: 7,0
+  10: 8,0
+  11: 9,0
+
+mysql:
+  username: skyblock
+  password: 06623cac-204e-40a7-bca1-f2fb58af13c2
+  database: skyblock_db
+
+prices:
+  delete: 10000
+  changeicon: 100000
+  rename: 100000000
+types:
+  ICY: 
+    mat: ICE
+    sub: 0
+  PLAINS: 
+    mat: GRASS
+    sub: 0
+  JUNGLE: 
+    mat: LOG
+    sub: 3
+  NETHER: 
+    mat: NETHER_STALK
+    sub: 0
+  MESA:
+    mat: STAINED_CLAY
+    sub: 2
+  DESERT:
+    mat: SAND
+    sub: 0
+  SWAMP:
+    mat: WATER_LILY
+    sub: 0
+  MUSHROOM:
+    mat: MYCEL
+    sub: 0
+  TAIGA:
+    mat: PODZOL
+    sub: 2

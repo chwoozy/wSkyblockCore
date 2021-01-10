@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="WorldGuard.jar" />
+    <libelement value="Vault.jar" />
+    <libelement value="worldedit-bukkit-6.0.jar" />
+    <libelement value="AnimatedNames.jar" />
+    <libelement value="AsyncWorldEdit.jar" />
+    <libelement value="AsyncWorldEditInjector.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="WorldGuard.jar">
+        <CLASSES>
+          <root url="WorldGuard.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Vault.jar">
+        <CLASSES>
+          <root url="Vault.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="worldedit-bukkit-6.0.jar">
+        <CLASSES>
+          <root url="worldedit-bukkit-6.0.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="AnimatedNames.jar">
+        <CLASSES>
+          <root url="AnimatedNames.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="AsyncWorldEdit.jar">
+        <CLASSES>
+          <root url="AsyncWorldEdit.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="AsyncWorldEditInjector.jar">
+        <CLASSES>
+          <root url="AsyncWorldEditInjector.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,35 @@
+# Island Utils
+no_perm_new_skyblock: "&4&l>> &cYou dont have permission to create another skyblock!"
+starting_creation: "&a&l>> &aStarting creation of new skyblock!"
+teleporting_to: "&b&l>> &bTeleporting to &6<skyblockname>"
+not_enough_money: "&4&l>> &cYou dont have enough money to do this!"
+couldnt_invite_offline: "&4&l>> &cCouldnt invite player, perheaps he's gone offline?"
+couldnt_invite: "&4&l>> &cCouldnt invite player!"
+invited: "&2&l>> &aInvited &2<invited>"
+feature_no_perm: "&4&l>> &cYou dont have permission to use this feature!"
+home_set: "&2&l>> &aIsland's home location set!"
+not_your_island: "&4&l>> &cThis is not your island!"
+warp_set: "&2&l>> &aWarp set!"
+cmd_usage: "&2&l>> &aUse /is or /is w <playername>"
+
+island_entry: "&b&l>> &bWelcome to <island>"
+island_leave: "&4&l>> &cYou have left <island>!"
+
+cant_build: "&4&l>> &cYou cant build here!"
+cant_damage_entities: "&4&l>> &cYou cant damage entities here!"
+cant_drop_items: "&4&l>> &cYou cant drop items here!"
+cant_pickup_item: "&4&l>> &cThese arent yours!"
+cant_interact_block: "&4&l>> &cYou cant interact with this block here!"
+cant_enter_area: "&4&l>> &cYoure not allowed to enter this area!"
+cant_enter_area_teleport: "&4&l>> &cYoure not allowed to enter this area! Canceling teleport!"
+cant_pvp: "&4&l>> &cPvP is disabled on this island!"
+
+removed_from_skyblock: "&4&l>> &cYou were removed from &6<skyblockname>"
+added_to_skyblock: "&2&l>> &6<player> &awas added to &6<skyblockname>"
+choose_other_biome: "&4&l>> &cCreation aborted! Choose a different type of biome!"
+
+# Shop Utils
+cant_sell_this: "&4&l>> &cYou cant sell this item!"
+sold_max_today: "&4&l>> &cYou have sold the max amount of this item for today!"
+dont_have_any: "&4&l>> &cYou have 0 of this item in your inventory!"
+sold_items: "&2&l &aSold &6<amount> &aof &6<type> &afor &6&l<price>"

@@ -1,0 +1,18 @@
+name: SkyBlock
+main: me.yungweezy.skyblock.main.Main
+version: 6.0
+author: yungweezy
+description: SkyBlock
+depends: [Vault]
+softdepends: [AnimatedNames]
+commands:
+ skyblock:
+    description: Main skyblock command
+    permission: skyblock.command
+    aliases: is
+ sell:
+    description: Skyblock sell GUI misc
+    permission: skyblock.sell
+ pause:
+   description: Isolates plugin for maintenance
+   permission: skyblock.pause
