@@ -1,7 +1,7 @@
 # wSkyblockCore
 wSkyblockCore is a private SB utilities core for a Skyblock server.<br/>
 The core seeks to create an intuitive and elegant way to handle the Skyblock gamemode.  
-The core is capable of balancing load of up to 300 players at any point in time.
+Tested to be capable of balancing load of up to 300 players at any point in time.
 
 # Features
 ### Island creation
